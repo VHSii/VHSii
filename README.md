@@ -13,7 +13,9 @@
   <img align="center" height="60" width="100" src="https://thesvg.org/icons/microsoft-sharepoint/default.svg"/>
   <img align="center" height="60" width="100" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original"/>
   <img align="center" height="60" width="100" src="https://icongr.am/devicon/python-original.svg?size=148&color=000000"/>
+  <img align="center" height="60" width="100" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"/>
 </div>
+
 
 ### Collaboration Tools
   
