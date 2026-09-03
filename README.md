@@ -10,7 +10,7 @@
   <img align="center" height="60" width="100" src="https://icongr.am/devicon/html5-original.svg?size=148&color=7952b3"/>
   <img align="center" height="60" width="100" src="https://icongr.am/devicon/css3-original.svg?size=148&color=7952b3"/>
   <img align="center" height="60" width="100" src="https://icongr.am/devicon/javascript-original.svg?size=148&color=7952b3"/>
-  <img align="center" height="60" width="100" xmlns=""http://www.w3.org/2000/svg"/>
+  <img align="center" height="60" width="100" src="https://wikimedia.org" alt="Power Apps"/>
   <img align="center" height="60" width="100" src="https://icongr.am/devicon/python-original.svg?size=148&color=000000"/>
 </div>
 
