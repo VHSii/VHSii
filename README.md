@@ -15,6 +15,14 @@
   <img align="center" height="60" width="100" src="https://icongr.am/devicon/python-original.svg?size=148&color=000000"/>
 </div>
 
+### Collaboration Tools
+  
+<div style="display: inline_block">   
+  <img align="center" height="50" width="100" src="https://www.svgrepo.com/show/353935/jira.svg"/>
+  <img align="center" height="100" width="100" src="https://www.svgrepo.com/show/303162/office-365-logo.svg"/>
+  <img align="center" height="100" width="100" src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png"/>
+</div>
+
 ## Additional Facts  
    
 ### Favorite IDE  
