@@ -38,3 +38,5 @@
 <div style="display: inline_block">  
   <a href=https://www.linkedin.com/in/vhsantos04><img align="center" height="60" width="100" src="https://www.svgrepo.com/show/448234/linkedin.svg"></a>
 </div>
+
+![Snake animation](https://github.com/vhsii/vhsii/blob/output/github-contribution-grid-snake.svg)
